@@ -12,7 +12,7 @@ then
         echo "This is macos"
         brew install git
 else
-        echo "not installing git"
+        echo "Not installing git"
 fi
 
 
